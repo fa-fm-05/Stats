@@ -1,0 +1,6 @@
+customtkinter
+pandas
+numpy
+matplotlib
+
+All must be installed before running the script! You can do this by running pip install -r requirements.txt in your terminal.
